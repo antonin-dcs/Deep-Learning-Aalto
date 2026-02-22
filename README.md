@@ -11,3 +11,6 @@ ResNet : Deep network architechture that enable the computation of very deep arc
 Regularization techniques such as weight_decay, L2 reg, dropout, early stopping, data_injection
 
 Recurrent Neural Networks (RNN) : Implemented a Sequence to sequence model for machine translation (French to English)
+
+Transformers : Implemented Transformer-based sequence-to-sequence model for statistical machine translation. With encoder/decoder architecture and Attention mechanism. (Self-attention and cross-attention) 
+
