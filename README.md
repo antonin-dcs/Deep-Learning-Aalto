@@ -14,3 +14,6 @@ Recurrent Neural Networks (RNN) : Implemented a Sequence to sequence model for m
 
 Transformers : Implemented Transformer-based sequence-to-sequence model for statistical machine translation. With encoder/decoder architecture and Attention mechanism. (Self-attention and cross-attention) 
 
+Graph Neural Networks (GNN) :Implemented a recurrent relational network to solve Sudoku (works also for solving tasks that requires a chain of interdependent steps). Can also be used to modelize complexe physics.
+
+Prototypical Network for few-shot learning : Implemented a prototypical network for the problem of classication with only a very few amount of classified data for training. Implemented here to classify letters for 30 different alphabets using the Omniglot dataset.
